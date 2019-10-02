@@ -25,10 +25,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[hookjs](http://192.168.2.101:3000/hook.js)
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
